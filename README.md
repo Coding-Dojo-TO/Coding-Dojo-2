@@ -6,7 +6,7 @@
 
 Write a function that takes two integers, and return their (LCM) Least Commom Multiple
 
-**Ie:**
+**i.e:**
 
 **lcm(20, 8)**
 
