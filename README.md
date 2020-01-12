@@ -27,6 +27,14 @@ Write a function that takes two integers, and return their (LCM) Least Commom Mu
 - Imran Ariffin
 - Bruno Bocardo
 - Elton Vieira
+- Pablo Vieira
+- Terry Zhang
+- David
+- Tom Brown
+- Ryota Iwasaki
+- Jack Loktiev
+- Safa
+- sehui
 
 
 ## How to run
